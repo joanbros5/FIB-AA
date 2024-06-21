@@ -1,0 +1,4 @@
+Podem crear dues fórmules partint de F, una sense cap aparició del literal xn, i una altre sense el literal xn-1.
+
+Com que tenim un algoritme que resol SAT en temps polinòmic, només hem de resoldre aquests dos sub-problemes amb n-1 literals
+i acoplar el resultat de les variables xn-1 i xn.

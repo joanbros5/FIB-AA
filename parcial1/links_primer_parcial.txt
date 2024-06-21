@@ -1,0 +1,20 @@
+DOMINATING SET
+https://www.cs.umd.edu/class/fall2017/cmsc451-0101/Lects/lect21-np-clique-vc-ds.pdf
+https://disco.ethz.ch/courses/fs11/seminar/slides/schlegel.pdf
+
+NCG
+https://cse.hkust.edu.hk/mjg_lib/Classes/COMP670O/Papers/p347-fabrikant.pdf
+
+RANDOM SELECT
+https://people.engr.tamu.edu/andreas-klappenecker/csce411-s15/csce411-random4.pdf
+http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
+
+
+KARGER ALGORITHM
+https://courses.cs.washington.edu/courses/cse521/17wi/521-lecture-1.pdf
+
+RSA VULNERABLE
+https://github.com/oriolmirolf/FIB-AA/blob/main/Parte%201/Examen/Problema6.pdf
+
+ESPIANT RSA
+https://github.com/oriolmirolf/FIB-AA/blob/main/Parte%201/Examen/Problema7.pdf

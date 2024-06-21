@@ -1,0 +1,10 @@
+
+EUROPEAN DEBATES
+https://github.com/oriolmirolf/FIB-AA/blob/main/Parte2/Problemas%20Y%20Examen/SOL-Problema11.pdf
+
+MIN MAKESPAN SCHEDULING
+https://ac.informatik.uni-freiburg.de/lak_teaching/ws11_12/combopt/notes/makespan_scheduling.pdf
+
+VERTEX COVER KERNELIZATION
+https://arxiv.org/abs/1811.09429
+https://www.mpi-inf.mpg.de/fileadmin/inf/d1/teaching/summer20/paraalg/Lectures/lecture_5.pdf
